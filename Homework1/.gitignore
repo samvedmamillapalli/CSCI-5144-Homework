@@ -1,0 +1,5 @@
+wal.log
+ops.log
+snapshot.json
+snapshot.json.tmp
+__pycache__/
